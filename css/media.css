@@ -1,0 +1,250 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media(max-width:575.98px){
+   /* header start */
+   .menu ul li a{
+    font-size: 22px;
+    padding: 0px !important;
+    text-align: right;
+    }
+   /* header end */
+   /* slider start */
+   .slider{
+      padding-bottom: 50px;
+   }
+   .slider-content {
+      margin-top: 13px;
+   }
+   .slider-content h1{
+      font-size: 25px;
+   }
+   .slider-content h2{
+      margin: 10px 0px;
+      font-size: 20px;
+   }
+   .slider-icon li{
+      margin-right: 20px !important;
+   }
+   .slider-icon li i {
+      font-size: 35px;
+   }
+   .cid{
+      bottom: -50px;
+   }
+   .cid li {
+      width: 12px;
+      height: 12px;
+   }
+   /* slider start */
+
+   /* feature start */
+   .features{
+      padding-top: 50px;
+      padding-bottom: 70px;
+   }
+   .section-title h1 {
+      font-size: 28px;
+   }
+   .section-title p {
+      font-size: 18px;
+      letter-spacing: 0px;
+   }
+   .f-box{
+      margin-top: 40px;
+      text-align: center;
+   }
+
+   /* feature end */
+   /* contact start */
+   .contact {
+      padding-top: 40px;
+      padding-bottom: 50px;
+   }
+   form {
+      padding: 10px 0px 40px;
+   }
+   .contact-icon i{
+      font-size: 35px;
+      margin: 0px 10px;
+   }
+   /* contact end */
+   /* footer start */
+   footer {
+      padding-bottom: 20px;
+   }
+   .f1{
+      font-size: 16px;
+      text-align: center;
+      margin-bottom: 50px;
+   }
+   .f1 address{
+      font-size: 16px;
+      text-align: center;
+
+   }
+   .f1 p{
+      font-size: 16px;
+      text-align: center;
+   }
+   /* footer end */
+    
+}
+
+/* small devices (landscape phones, 576px and up) */
+@media(min-width:576px) and (max-width:767.98px){
+    /* header start */
+   .menu ul li a{
+    font-size: 22px;
+    padding: 0px !important;
+    text-align: right;
+    }
+   /* header end */
+   /* slider start */
+   .slider{
+      padding-bottom: 50px;
+   }
+   .slider-content {
+      margin-top: 13px;
+   }
+   .slider-content h1{
+      font-size: 25px;
+   }
+   .slider-content h2{
+      margin: 10px 0px;
+      font-size: 20px;
+   }
+   .slider-icon li i {
+      font-size: 35px;
+   }
+   .cid{
+      bottom: -50px;
+   }
+   .cid li {
+      width: 12px;
+      height: 12px;
+   }
+   /* slider start */
+   /* feature start */
+   .features{
+      padding-top: 50px;
+      padding-bottom: 70px;
+   }
+   .section-title h1 {
+      font-size: 28px;
+   }
+   .section-title p {
+      font-size: 18px;
+      letter-spacing: 0px;
+   }
+   .f-box{
+      margin-top: 40px;
+      text-align: center;
+   }
+
+   /* feature end */
+   /* contact start */
+   .contact {
+      padding-top: 60px;
+      padding-bottom: 80px;
+   }
+   /* contact end */
+   /* footer start */
+   footer {
+      padding-bottom: 70px;
+   }
+   .f1{
+      font-size: 16px;
+      text-align: center;
+      margin-bottom: 50px;
+   }
+   .f1 address{
+      font-size: 16px;
+   }
+   .f1 p{
+      font-size: 16px;
+   }
+   .f1 p a{
+      text-align: center;
+   }
+   /* footer start */
+}
+
+
+/* Medium devices (Tablates, 768px and up) */
+@media(min-width:768px) and (max-width:991.98px){
+    /* header start */
+   .menu ul li a{
+    font-size: 22px;
+    padding: 0px !important;
+    text-align: right;
+    }
+   /* header end */
+   /* slider start */
+   .slider{
+      padding-bottom: 60px;
+   }
+   .slider-content {
+      margin-top: 13px;
+   }
+   .slider-content h1{
+      font-size: 25px;
+   }
+   .slider-content h2{
+      margin: 10px 0px;
+      font-size: 20px;
+   }
+   .slider-icon li i {
+      font-size: 35px;
+   }
+   .cid{
+      bottom: -62px;
+   }
+   .cid li {
+      width: 12px;
+      height: 12px;
+   }
+   /* slider end */
+   /* contact start */
+   .contact {
+      padding-top: 60px;
+      padding-bottom: 80px;
+   }
+   /* contact end */
+   /* footer start */
+   .f1{
+      font-size: 16px;
+   }
+   .f1 address{
+      font-size: 16px;
+
+   }
+   .f1 p{
+      font-size: 16px;
+   }
+   /* footer start */
+
+}
+
+/* small devices (landscape phones, 992px and up) */
+@media(min-width:992px) and (max-width:1199.98px){
+    
+}
+
+/* small devices (landscape phones, 1200px and up) */
+@media(min-width:1200px) and (max-width:1399.98px){
+    
+}
+
+/* Custom (landscape phones, 1400px and up) */
+@media(min-width:1400px) and (max-width:1599.98px){
+    
+}
+
+/* custom devices (landscape phones, 1600px and up) */
+@media(min-width:1600px) and (max-width:1799.98px){
+    
+}
+
+/* Custom devices (landscape phones, 1800px and up) */
+@media(min-width:1800px){
+    
+}
